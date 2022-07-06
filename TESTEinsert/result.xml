@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voiture>
+  <result>
+    <TypeVoiture>Monospace</TypeVoiture>
+    <JourReservation>2022-07-01</JourReservation>
+    <Option>Siege bebe</Option>
+    <Carburant>GPL</Carburant>
+    <DemandeSpecifique>oop</DemandeSpecifique>
+  </result>
+</voiture>
